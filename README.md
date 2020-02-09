@@ -2,4 +2,4 @@
 
 - PASSWORD GENERATOR 
 
-Check project [https://passwordgenerator-alpha.now.sh/]
+Check project [here](https://passwordgenerator-alpha.now.sh/)
