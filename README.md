@@ -11,3 +11,7 @@ Check project [here](https://cards.ndjerrou.now.sh/)
 - TYPING GAME
 
 Check project [here](https://typingame.now.sh)
+
+- PAGINATION
+
+Check project [here](https://pagination.ndjerrou.now.sh)
